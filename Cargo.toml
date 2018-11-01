@@ -1,0 +1,11 @@
+[package]
+name = "blockchain"
+version = "0.1.0"
+authors = ["Nazarí González <nazari.nz@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4.6"
+rust-crypto = "0.2"
+num-traits = "0.2.6"
+num-bigint = "0.2.0"
